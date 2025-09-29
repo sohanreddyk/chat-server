@@ -1,0 +1,11 @@
+[INFO] Scanning for projects...
+[INFO] 
+[INFO] ----------------------< com.chatflow:chat-server >----------------------
+[INFO] Building Chat Server 1.0-SNAPSHOT
+[INFO]   from pom.xml
+[INFO] --------------------------------[ jar ]---------------------------------
+[INFO] 
+[INFO] --- exec:3.2.0:java (default-cli) @ chat-server ---
+🚀 Chat server started on port 9090
+🚀 Chat server started on port 9090
+❤️  Health endpoint on port 8080 at /health
